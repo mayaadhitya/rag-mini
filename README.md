@@ -46,18 +46,7 @@ Perfect for **researchers**, **students**, **developers**, and **AI hobbyists** 
 ---
 
 ## 🗂️ Project Structure
-rag-mini/
-├── app.py              # 🔷 Main entry point
-├── rag_engine.py       # 🧠 Core RAG logic (retrieval + generation)
-├── requirements.txt    # 📦 Project dependencies
-├── .env                # 🔐 API keys (DO NOT commit this)
-├── .gitignore          # 🚫 Files to exclude from Git
-├── chroma_db/          # 🧬 Vector database (auto-generated)
-├── data/               # 📄 Input PDF files or extracted text chunks
-├── static/
-│   └── screenshot.png  # 🖼️ UI snapshot or visual reference
-└── README.md           # 📘 Project documentation
-
+<pre> rag-mini/ ├── app.py # 🔷 Main entry point ├── rag_engine.py # 🧠 Core RAG logic (retrieval + generation) ├── requirements.txt # 📦 Project dependencies ├── .env # 🔐 API keys (DO NOT commit this) ├── .gitignore # 🚫 Files to exclude from Git ├── chroma_db/ # 🧬 Vector database (auto-generated) ├── data/ # 📄 Input PDF files or extracted text chunks ├── static/ │ └── screenshot.png # 🖼️ UI snapshot or visual reference └── README.md # 📘 Project documentation </pre>
 
 
 ---
